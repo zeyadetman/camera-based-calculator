@@ -9,5 +9,5 @@ camera-based simple calculator (in progress), compute formulas from papers.
 1. Solve the formula. 
 
 # How to recognize the digits?
-![digit recongnition](https://pbs.twimg.com/media/DSKjg3nXkAE1edi.jpg)
+![digit recongnition](Diagram.png)
 
